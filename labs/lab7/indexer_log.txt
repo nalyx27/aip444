@@ -1,0 +1,16 @@
+[dotenv@17.3.1] injecting env (1) from ..\..\.env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+C:\Users\nalyx\Documents\aip444\labs\lab7\node_modules\chromadb\dist\cjs\chromadb.cjs:4673
+      throw new ChromaConnectionError(
+            ^
+
+
+ChromaConnectionError: Failed to connect to chromadb. Make sure your server is running and try again. If you are running from a browser, make sure that your chromadb instance is configured to allow requests from the current origin using the CHROMA_SERVER_CORS_ALLOW_ORIGINS environment variable.
+    at chromaFetch (C:\Users\nalyx\Documents\aip444\labs\lab7\node_modules\chromadb\dist\cjs\chromadb.cjs:4673:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async o (C:\Users\nalyx\Documents\aip444\labs\lab7\node_modules\chromadb\dist\cjs\chromadb.cjs:457:26)
+    at async ChromaClient.getOrCreateCollection (C:\Users\nalyx\Documents\aip444\labs\lab7\node_modules\chromadb\dist\cjs\chromadb.cjs:5181:22)
+    at async main (C:\Users\nalyx\Documents\aip444\labs\lab7\indexer.ts:50:22) {
+  cause: undefined
+}
+
+Node.js v22.13.0
