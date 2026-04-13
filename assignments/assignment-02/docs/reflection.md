@@ -1,5 +1,8 @@
 # Assignment 2 Reflection: Job Search Assistant
 
+> [!NOTE]
+> Detailed results from the Phase 3 Advisor testing, including consistency checks and performance examples, can be found in the **[Evaluation Evidence](file:///c:/Users/nalyx/Documents/aip444/assignments/assignment-02/docs/evaluation.md)** document.
+
 ## Architecture: Workflow, Agent, or Hybrid?
 The project is structured as a **deterministic workflow pipeline**. Each phase builds on the structured data produced by the previous one (Phase 1 JSON -> Phase 2 Gap Analysis -> Phase 3 Advice). This ensures reliability and allows for easier debugging of extraction issues before advice is generated.
 
@@ -21,8 +24,9 @@ I used **Antigravity**. During Phase 3 implementation, the agent initially faile
 ## Other AI Tools
 I used **Tavily** for company research, which worked exceptionally well for providing "Culture Signals" that weren't present in the job postings themselves. In the final report for Momentum Financial Services, this allowed the system to specifically mention their commitment to **ethical AI and AIDA**, making the cover letter advice feel much more personalized.
 
-## Evaluation & Current Limitations
-Following the full pipeline execution, a few key findings emerged:
-- **Market Validation:** The `market_analysis.md` report correctly identified SQL and Python as the most critical skills for the Toronto market, vindicating the focus of the extraction logic.
-- **Action Plan Sparse Data:** The `gap_analysis.md` currently defaults to "No action plan provided" for many identified gaps. This suggests that while the system is excellent at *identifying* gaps, the logic for *remediating* them needs more robust prompt instruction or a secondary lookup for learning resources.
-- **Accuracy:** The system successfully avoided hallucinating experience that wasn't on the resume, correctly identifying that the candidate is transitioning from a non-data background.
+## Evaluation Findings (Summary)
+Following the full pipeline execution, a few key findings emerged (see **[Evaluation Evidence](file:///c:/Users/nalyx/Documents/aip444/assignments/assignment-02/docs/evaluation.md)** for more detail):
+- **Market Validation:** The `market_analysis.md` report correctly identified SQL and Python as the most critical skills for the Toronto market.
+- **Action Plan Limitations:** The `gap_analysis.md` currently defaults to "No action plan provided" for many identified gaps, indicating a need for more robust remediation guidance.
+- **Consistency:** Fit scoring exhibits a ~10% variance between runs (e.g., 25% vs 35% for the same role), suggesting the system is best used for qualitative guidance rather than precise metrics.
+- **Accuracy:** The system successfully avoided hallucinating experience that wasn't on the resume.
