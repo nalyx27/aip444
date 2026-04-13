@@ -49,8 +49,11 @@ export async function processJobPosting(filePath: string): Promise<JobPosting> {
 
   const extractedData = await callLLM(extractionPrompt);
   
+  // Robustness fix: handle cases where LLM returns an array instead of an object
+  const cleanExtractedData = Array.isArray(extractedData) ? extractedData[0] : extractedData;
+
   // Validate with Zod
-  const jobResult = JobPostingSchema.parse(extractedData);
+  const jobResult = JobPostingSchema.parse(cleanExtractedData);
   
   // Perform company research only if we have a valid company name
   if (jobResult.companyName && jobResult.companyName !== 'Unknown Company') {

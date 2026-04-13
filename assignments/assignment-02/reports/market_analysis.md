@@ -1,88 +1,98 @@
-```markdown
-# Toronto Data & Analytics Job Market Analysis - November 11, 2024
+# Data Science & Analytics Job Market Analysis - Toronto, ON
 
-This report analyzes recent job postings in the Toronto area related to data analytics, data science, and related roles. It provides insights into in-demand skills, experience levels, salary ranges, and common responsibilities to aid job seekers in targeting their applications and skill development.
+This report analyzes recent data science and analytics job postings in Toronto, ON, providing insights into required skills, experience, salary ranges, and common responsibilities. This information is intended to help job seekers understand the current market and tailor their skills and applications accordingly.
 
-## 1. Most Commonly Required Skills and Technologies
+## 1. Most Commonly Required Skills & Technologies
 
-Based on the analyzed job postings, the most in-demand skills and technologies are:
+Here's a breakdown of the most frequently mentioned skills and technologies, categorized for clarity.  This reflects the general demand of the analysed Data roles in Toronto:
 
-*   **Data Manipulation & Querying:** SQL is overwhelmingly the most crucial skill, appearing in nearly every job posting. This emphasizes the continued importance of relational databases in data work. The analyst for CimiC requires more specific SQL variants: PL/SQL
-*   **Programming Languages:** Python is the dominant programming language, particularly for Data Engineering and Data Science roles. R is also mentioned for data science positions.
-*   **Data Visualization:** BI tools such as Tableau and Power BI are frequently listed.
-*   **Cloud Technologies:** Experience with cloud data warehouses, particularly GCP and AWS (Redshift) is very advantageous, and continues a relevant trend of cloud-based skills being valuable in data roles
-*   **Analytical & Statistical Techniques:** Skills related to predictive modeling, machine learning, statistical analysis, and data modeling appear frequently.
-*   **Data Governance and Stewardship:** More senior roles related to Data Quality highlight an importance of related skills in data governance, traceability, and assessment of Data Quality
+**Core Data Skills:**
 
-**Summary Table:**
+*   **SQL:**  Universally required, demonstrating its fundamental importance for data professionals.
+*   **Data Analysis:** Understanding and interpreting data is crucial.
+*   **Problem-Solving:**  A consistent requirement for identifying and resolving data-related issues.
+*   **Communication Skills:**  Essential for collaborating with cross-functional teams and presenting findings.
 
-| Skill/Technology          | Frequency | Notes                                                                             |
-| ------------------------- | --------- | --------------------------------------------------------------------------------- |
-| SQL                       | High      | Essential for nearly all roles                                                      |
-| Python                    | Medium      | Primarily for Data Engineering & Data Science; a valuable asset in general.       |
-| Data Visualization (BI)         | Medium      | Key for Data Analyst and some Data Engineer roles.                                    |
-| Cloud Data Warehouses (GCP/AWS) | Medium      | Increasingly important, particularly Redshift for COSMO                   |
-| Machine Learning/Predictive Modelling | Medium      | Crucial for Data Science roles              |
-| Excel         | Low      | For Data Analyst and Operations Coordinator                                    |
+**Programming & Scripting:**
 
-## 2. Typical Experience Levels and Education Requirements
+*   **Python:** Highly in demand, used for data manipulation, analysis, and model building.
+*   **R:** Less frequent than Python but frequently used in data science applications.
 
-*   **Experience Levels:**
-    *   Entry-level roles (co-op/junior) generally require 1-2 years of experience or less.
-    *   Mid-level roles typically require 3-5 years of experience.
-    *   Senior-level roles (Data Analyst, Data Quality Analyst) often require 5+ years of experience.
+**Cloud Technologies:**
 
+*   **Cloud data warehouses:**  Mentioned in a few roles (e.g., Amazon Redshift, GCP), indicating a growing demand as enterprises shift to cloud-based solutions.
+
+**Data Visualization & BI:**
+
+*   **Visualization Tools (e.g., Power BI, Tableau, Domo):**  Essential for presenting data insights in a clear and actionable manner.
+*   **BI Tools:** Required skill for Data Engineers and Data Analysts.
+
+**Data Science & Machine Learning:**
+
+*   **Statistical and machine learning techniques:** Very important for Data Analytics and Data Science positions.
+*   **Predictive modeling:** Valuable skill to determine future output.
+
+**Database Technologies**
+
+* SQLServer
+* Oracle
+
+**Overall:** Employers look for candidates with skills in extracting, storing, transforming, and providing strategic insight for decision making.
+
+## 2. Typical Experience Levels & Education Requirements
+
+*   **Experience Levels:** The desired experience significantly varied.
+    *   **Entry-Level/Co-op:**  A few positions were specifically for co-op students or junior analysts (1-2 years).
+    *   **Mid-Level:** Positions requiring 2+ years of experience were also present.
+    *   **Experienced Professionals:** Multiple roles required 5+ years of relevant experience.
 *   **Education Requirements:**
-    *   A Bachelor's degree in a relevant field (Computer Science, Data Science, Statistics, Mathematics, Economics, Engineering, Finance) is generally required for all roles. However for some roles like IT Business/Systems Analyst a degree or diploma in Business may suffice
-    *   Advanced degrees (Master's) may be preferred for Data Science and Data Engineering positions.
+    *   **Bachelor's Degree:**  Most roles required at least a bachelor's degree, with Computer Science, Data Science, Statistics, Mathematics, Economics, Finance, or Engineering being the common fields.
+    *   **Master's Degree:**  While not always mandatory, a master's degree could provide a competitive edge for Data Science roles.
 
-## 3. Salary Ranges (Annualized)
+**Observation:** The market caters to a range of experience levels, but advanced positions require specific domain knowledge and extensive experience.
 
-Salary ranges vary considerably based on experience, skills, and company size. The data suggests that an entry-level data engineering co-op role comes in at around $45,000 per year, and senior level Data Analysts can command a salary of up to approximately $140,000 per year.
+## 3. Salary Ranges
 
-Here's a summary of reported salary ranges:
+*   **Wide Range:** Salaries varied drastically based on experience, skills, and company.
+*   **Co-op/Entry-Level:** \$36,000 - \$45,000/year (likely pro data compared to full-time).
+*   **Mid-Level Analyst/Specialist:** \$70,000 - \$90,000/year.
+*   **Data Analyst/Engineer:** \$75,000 - \$140,000/year.
+*   **Data Scientist:** \$95,000 - \$105,000/year.
+*   **Hourly Roles:** \$59.68 - \$70.47 per hour.
 
-| Job Title                      | Salary Range             | Notes                                                                                          |
-| ------------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| Data Analyst (Senior)           | $110,000 – $140,000     |                                                                   |
-| Data Engineer Co-op        | $45,000            |                                                                                            |
-| Data Extraction Specialist      | $75,000 – $85,000       | |
-| Data Quality Analyst (Expert)     | (approx.) $119,776 - $146,580           | (Based on the provided hourly rate)                                                     |
-| Data Scientist                   | $95,000 – $105,000     |                                                                                                |
-| IT Business/Systems Analyst       | $67,086.00 – $83,857.50              |                                                                                           |
-| Junior Data Analyst/Data Operations Coordinator | $36,000 – $40,000       | 1-Year Contract                                                                               |
-| Systems Analyst                   | $70,000 – $90,000       |                                                                                                |
+**Important Notes:**
 
-**Important Considerations:**
+*   These are *reported* salary ranges from the job postings.  Actual compensation may vary based on negotiations, benefits, and other factors.
+*   Some postings provided only estimations.
+* Location is a key cost of living factor.
 
-*   These salary ranges are estimates based on a limited number of job postings.
-*   Actual salaries will depend on the specific company, candidate qualifications, and negotiation skills.
+## 4. Common Responsibilities & Role Patterns
 
-## 4. Common Responsibilities and Role Patterns
+A general extraction of how responsabilities were shared.
 
-The core responsibilities generally involve:
+*   **Data Extraction, Transformation, and Loading (ETL):** Building and maintaining data pipelines.
+*   **Data Modeling:** Designing and developing analytical data models.
+*   **Data Analysis & Reporting:**  Generating insights, creating dashboards, and presenting findings to stakeholders.
+*   **Predictive Modeling/Machine Learning:** Developing and deploying models for forecasting, customer segmentation, risk assessment, etc.
+*  **Ensure models are scalable and compliant:** Crucial responsibility to validate correct execution and following the requirements from internal team.
 
-*   **Data Extraction, Transformation, and Loading (ETL):** Designing and implementing data pipelines to ingest, clean, and transform data from various sources.
-*   **Data Modeling:** Creating and maintaining data models to support analytical and reporting needs.
-*   **Data Analysis and Reporting:** Analyzing data to identify trends, patterns, and insights, and then communicating these findings through reports and dashboards.
-*   **Predictive Modeling and Machine Learning:** Developing and deploying machine learning models to solve business problems such as fraud detection, churn prediction, or customer segmentation.
-*   **Collaboration and Communication:** Working closely with business stakeholders to understand their needs and translate them into data-driven solutions.
+**Role Patterns:**
 
-**Specific Role Patterns:**
+*   **Data Analyst:** Focused on generating actionable insights and supporting business decisions. Skills: SQL, Excel, BI tools, Visualization, communication.
+*   **Data Engineer:** Focused on building and maintaining the data infrastructure. Skills: SQL, Python, Cloud Technologies, ETL tools.
+*   **Data Scientist:** Focused on developing and deploying machine learning models to solve complex problems. Skills: Python/R, statistical modeling, machine learning libraries, problem-solving.
+* **System Analyst** Understands the client's business requirements, challenges, or gaps and translates them into operational improvements
+* **Data Quality Analyst** Ensures data meets the required standards and performs detailed analysis of data issues to ensure adequate controls are put in place
 
-*   **Data Analysts:** Focus on analyzing existing data sources, building dashboards, and providing insights to business users.
-*   **Data Engineers:** Focus on building and maintaining the infrastructure and pipelines that support data analysis and machine learning.
-*   **Data Scientists:** Focus on developing and deploying machine learning models to solve complex business problems.
-*   **Systems Analysts:** Focus on supporting employees regarding their software, training them, and finding solutions to make improvements.
-*   **Data Quality Analyst:** Focus on improving business controls and standards for Capital Markets Business Lines
+## 5. Notable Trends & Observations
 
-## 5. Notable Trends and Observations
+*   **Toronto is a Growing Hub for Data Science:** The presence of various companies, from established corporations to smaller firms, indicates a healthy demand for data professionals.
+*   **SQL Remains King:**  Across all roles, SQL proficiency is a mandatory skill.
+*   **Cloud is Important, but not Always Essential:** While cloud skills are valuable (and becoming more so), they are not always a strict requirement, especially for more junior roles.
+*   **Financial Services Sector Prominent:** Several of the listed firms operate in the financial services industry, suggesting strong data science opportunities in this sector.
+*   **Company Sizes Vary:**  Opportunities exist across a range of company sizes, from small startups to large multinational corporations.  Job seekers can prioritize based on their preferred work environment.
+* Soft skills are valuable but differ by role.
 
-*   **Strong Demand for SQL:** Demonstrated by the overwhelming demand for SQL skills in the data-job market.
-*   **Location Concentration:** All listed positions were located in the Greater Toronto Area.
-*   **Diverse Industries:** The job postings spanned various industries, including financial services, software development, sports and entertainment, and MedTech, indicating a robust and diverse data job market in Toronto.
-*   **Cloud Emphasis:** The emphasis on cloud technologies (and particularly Google's GCP and Amazon's AWS) signifies a general transition to cloud based analytics in the region
-*   **Financial Services:** Appears to have more senior roles that command the highest salaries in the region
+## Conclusion
 
-**Disclaimer:** This report is based on a limited sample of job postings and should not be considered a definitive representation of the entire Toronto data job market. The information provided is for general informational purposes only and does not constitute professional advice.
-```
+The Toronto data science and analytics job market offers diverse opportunities for professionals with a range of skills and experience. Emphasizing core data skills (SQL, Python, data analysis), developing strong communication abilities, and staying up-to-date with emerging technologies like cloud computing, machine learning and data visualization tools will be critical for a successful job search. By understanding the specific requirements and responsibilities of target roles, job seekers can tailor their applications and increase their chances of landing their dream job.

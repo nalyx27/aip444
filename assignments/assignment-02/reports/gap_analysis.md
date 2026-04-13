@@ -1,27 +1,55 @@
 # Resume Gap Analysis Report
 
 ## Strengths
-- IT Support domain expertise aligns with Data Analyst roles.
-- Adaptable and Quick Learner soft skills are valuable in rapidly evolving data roles.
+- Computer Skills
+- Communication
+- Organizational Skills
+- Problem-Solving (Creative Problem Solving)
+- Computer Programming
+- Networking
+- Adaptable
 
 ## Gaps and Triage
 ### SQL [**Short-term**]
 **Action Plan:** No action plan provided.
 
-### Python or R [**Short-term**]
+### Python [**Short-term**]
 **Action Plan:** No action plan provided.
 
-### Data Visualization (Tableau, Power BI) [**Short-term**]
+### R [**Short-term**]
 **Action Plan:** No action plan provided.
 
-### Cloud Data Warehouses (GCP/AWS) [**Short-term**]
+### Cloud Technologies (e.g., Amazon Redshift, GCP) [**Short-term**]
 **Action Plan:** No action plan provided.
 
-### Machine Learning/Predictive Modeling [**Short-term**]
+### Data Visualization Tools (e.g., Power BI, Tableau, Domo) [**Short-term**]
 **Action Plan:** No action plan provided.
 
-### Relevant Bachelor's Degree [**Short-term**]
+### BI Tools [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### Statistical and Machine Learning Techniques [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### Predictive Modeling [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### Data Analysis [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### ETL [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### Data Modeling [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### SQLServer [**Short-term**]
+**Action Plan:** No action plan provided.
+
+### Oracle [**Short-term**]
 **Action Plan:** No action plan provided.
 
 ## Unique Value
-- Experience at Infotech Computers with Computer Hardware
+- Diploma, Computer Programming
+- Computer Systems Technology - Networking
+- IT Support Experience

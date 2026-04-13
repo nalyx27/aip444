@@ -1,7 +1,12 @@
 {
   "strengths": [
-    "IT Support domain expertise aligns with Data Analyst roles.",
-    "Adaptable and Quick Learner soft skills are valuable in rapidly evolving data roles."
+    "Computer Skills",
+    "Communication",
+    "Organizational Skills",
+    "Problem-Solving (Creative Problem Solving)",
+    "Computer Programming",
+    "Networking",
+    "Adaptable"
   ],
   "gaps": [
     {
@@ -10,32 +15,69 @@
       "actionPlan": "No action plan provided."
     },
     {
-      "skill": "Python or R",
+      "skill": "Python",
       "triageLevel": "Short-term",
       "actionPlan": "No action plan provided."
     },
     {
-      "skill": "Data Visualization (Tableau, Power BI)",
+      "skill": "R",
       "triageLevel": "Short-term",
       "actionPlan": "No action plan provided."
     },
     {
-      "skill": "Cloud Data Warehouses (GCP/AWS)",
+      "skill": "Cloud Technologies (e.g., Amazon Redshift, GCP)",
       "triageLevel": "Short-term",
       "actionPlan": "No action plan provided."
     },
     {
-      "skill": "Machine Learning/Predictive Modeling",
+      "skill": "Data Visualization Tools (e.g., Power BI, Tableau, Domo)",
       "triageLevel": "Short-term",
       "actionPlan": "No action plan provided."
     },
     {
-      "skill": "Relevant Bachelor's Degree",
+      "skill": "BI Tools",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Statistical and Machine Learning Techniques",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Predictive Modeling",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Data Analysis",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "ETL",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Data Modeling",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "SQLServer",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Oracle",
       "triageLevel": "Short-term",
       "actionPlan": "No action plan provided."
     }
   ],
   "uniqueValue": [
-    "Experience at Infotech Computers with Computer Hardware"
+    "Diploma, Computer Programming",
+    "Computer Systems Technology - Networking",
+    "IT Support Experience"
   ]
 }

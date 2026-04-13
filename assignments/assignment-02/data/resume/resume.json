@@ -3,14 +3,15 @@
   "hardSkills": [
     "Computer Hardware",
     "Software",
-    "Computer Skills"
+    "Computer Skills",
+    "Microsoft Office"
   ],
   "softSkills": [
     "Communication",
     "Organizational Skills",
     "Adaptable",
-    "Creative Problem Solving",
     "Quick Learner",
+    "Creative Problem Solving",
     "Friendly",
     "Approachable Demeanor"
   ],
@@ -26,11 +27,11 @@
   ],
   "education": [
     {
-      "degree": "Diploma",
+      "degree": "Diploma, Computer Programming",
       "institution": "Seneca Polytechnic"
     },
     {
-      "degree": null,
+      "degree": "Computer Systems Technology - Networking",
       "institution": "Centennial College"
     },
     {
@@ -41,6 +42,8 @@
   "certifications": [],
   "projects": [],
   "domainExpertise": [
-    "IT Support"
+    "IT Support",
+    "Computer Programming",
+    "Networking"
   ]
 }
