@@ -212,3 +212,4 @@ dist/
 *.tsbuildinfo
 chroma_db/
 labs/lab7/node_modules/
+assignments/assignment-02/raw_data/

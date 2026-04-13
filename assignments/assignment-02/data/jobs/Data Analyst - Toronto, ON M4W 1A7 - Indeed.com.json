@@ -1,0 +1,44 @@
+{
+  "jobTitle": "Data Analyst",
+  "companyName": "COSMO",
+  "location": "Toronto, ON M4W 1A7",
+  "skillsRequired": [
+    "SQL",
+    "Cloud data warehouses (e.g., Amazon Redshift)",
+    "Analytical data models",
+    "Predictive models",
+    "Statistical and machine learning techniques",
+    "Scikit-learn",
+    "Tensorflow",
+    "BI",
+    "Visualization tools (e.g., Power BI, Tableau)",
+    "Cross-functional collaboration",
+    "Communication skills"
+  ],
+  "skillsPreferred": [],
+  "experienceLevel": "5+ years",
+  "educationRequirements": null,
+  "salaryRange": "$110,000–$140,000 a year",
+  "responsibilities": [
+    "Partner with cross-functional teams to define data requirements and build source-of-truth dashboards, curated datasets, and reporting assets used in day-to-day operations.",
+    "Develop and maintain analytical data models that enable scalable and reliable analysis.",
+    "Deliver actionable insights on customer behavior, product performance, and subscriptions, supporting decisions across Product, Marketing, and Operations.",
+    "Design, develop, and implement predictive models (e.g., churn risk, customer lifetime value, propensity scoring) and integrate model outputs into operational dashboards and decision- making workflows.",
+    "Automate recurring analyses, segmentation logic, and reporting workflows to improve scalability and reduce manual effort.",
+    "Lead data unification initiatives, including data source evaluation, integration strategy, and canonical dataset design.",
+    "Contribute to analytics and data engineering best practices, including documentation, validation, and data quality standards."
+  ],
+  "companyResearch": {
+    "size": "11-50 employees (Cosmos Sports & Entertainment)",
+    "industry": "Spectator Sports (Cosmos Sports & Entertainment), Health, Healthcare and Hospitals (Cosmo Pharmaceuticals N.V.)",
+    "recentNews": [
+      "Cosmo Enters Scale Up Phase with 104M Revenue, 128M Cash, and Breakout AI and Dermatology Platforms (Cosmo Pharmaceuticals N.V.)",
+      "Cosmo Presents Agenda for AGM 2026 (Cosmo Pharmaceuticals N.V.)",
+      "Cosmo Highlights Leadership in Real Time Medical AI at NVIDIA GTC 2026 (Cosmo Pharmaceuticals N.V.)",
+      "Cosmo Pharmaceuticals Achieves 104.2M Revenue and 9.5M EBITDA in 2025; Proposes 2.10 Dividend; Establishes 2026 Growth Framework (Cosmo Pharmaceuticals N.V.)",
+      "Cosmos Sports & Entertainment Announces New Partnership with the Toronto Regional Real Estate Board"
+    ],
+    "cultureSignals": [],
+    "additionalContext": "There appear to be multiple companies named \"COSMO\". One, Cosmo Pharmaceuticals N.V., is focused on AI-enabled MedTech and Pharma, and dermatology. Another, Cosmos Sports & Entertainment, is a sports and entertainment marketing firm founded in 2003. A third, Cosmo Industries, exists, but context is limited."
+  }
+}

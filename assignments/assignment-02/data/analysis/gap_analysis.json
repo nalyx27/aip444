@@ -1,0 +1,41 @@
+{
+  "strengths": [
+    "IT Support domain expertise aligns with Data Analyst roles.",
+    "Adaptable and Quick Learner soft skills are valuable in rapidly evolving data roles."
+  ],
+  "gaps": [
+    {
+      "skill": "SQL",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Python or R",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Data Visualization (Tableau, Power BI)",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Cloud Data Warehouses (GCP/AWS)",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Machine Learning/Predictive Modeling",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    },
+    {
+      "skill": "Relevant Bachelor's Degree",
+      "triageLevel": "Short-term",
+      "actionPlan": "No action plan provided."
+    }
+  ],
+  "uniqueValue": [
+    "Experience at Infotech Computers with Computer Hardware"
+  ]
+}

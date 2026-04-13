@@ -1,0 +1,46 @@
+{
+  "fullName": "Dylan Navarrete",
+  "hardSkills": [
+    "Computer Hardware",
+    "Software",
+    "Computer Skills"
+  ],
+  "softSkills": [
+    "Communication",
+    "Organizational Skills",
+    "Adaptable",
+    "Creative Problem Solving",
+    "Quick Learner",
+    "Friendly",
+    "Approachable Demeanor"
+  ],
+  "workExperience": [
+    {
+      "company": "McDonalds",
+      "achievements": []
+    },
+    {
+      "company": "Infotech Computers",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diploma",
+      "institution": "Seneca Polytechnic"
+    },
+    {
+      "degree": null,
+      "institution": "Centennial College"
+    },
+    {
+      "degree": "Ontario Secondary School Diploma",
+      "institution": "George Harvey Collegiate Institute"
+    }
+  ],
+  "certifications": [],
+  "projects": [],
+  "domainExpertise": [
+    "IT Support"
+  ]
+}

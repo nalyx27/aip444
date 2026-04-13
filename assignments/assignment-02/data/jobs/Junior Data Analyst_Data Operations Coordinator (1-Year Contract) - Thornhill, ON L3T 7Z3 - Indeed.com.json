@@ -1,0 +1,38 @@
+{
+  "jobTitle": "Junior Data Analyst/Data Operations Coordinator (1-Year Contract)",
+  "companyName": "Partners in Credit Inc",
+  "location": "Thornhill, ON L3T 7Z3",
+  "skillsRequired": [
+    "SQL",
+    "Microsoft Excel",
+    "SFTP tools",
+    "data formatting (CSV, JSON, XML)"
+  ],
+  "skillsPreferred": [],
+  "experienceLevel": "1–2 years of experience in a data-centric administrative role",
+  "educationRequirements": "A degree or diploma in Data Analytics, Computer Science, or Business Information Systems",
+  "salaryRange": "$36,000–$40,000 a year",
+  "responsibilities": [
+    "Manage and monitor the automated SFTP transfers of sensitive financial files between PIC and our external banking/credit partners.",
+    "Perform manual and automated validation checks to ensure incoming files meet quality standards before they are ingested into our production SQL databases.",
+    "Write and execute SQL queries to extract data for the collections, legal, and executive teams.",
+    "Update and maintain internal reports (Excel) that track key performance metrics like recovery rates and agent productivity.",
+    "Ensure all data shared with third parties is stripped of PII, adhering strictly to the PIC Security Framework.",
+    "Maintain logs of all data movements and access requests to support our regulatory compliance and operational risk audits."
+  ],
+  "companyResearch": {
+    "size": "51-200 employees",
+    "industry": "Financial Services",
+    "recentNews": [
+      "Partners in Credit Inc is hiring a Paralegal in Markham, Ontario.",
+      "Partners in Credit Inc is hiring a Legal Collector in Markham, Ontario.",
+      "Partners in Credit's team won a recent RMA tournament."
+    ],
+    "cultureSignals": [
+      "Commitment to excellence",
+      "Values clients as top priority",
+      "Focus on high-quality service and performance"
+    ],
+    "additionalContext": "Partners in Credit Inc. (PIC) is a Canadian collection agency operating nationally since 1988. They specialize in providing comprehensive financial recovery services and account receivable management, serving niche markets including Commercial, Finance, Government, Healthcare, Telecommunications, and Utilities. Their clientele includes top Canadian Financial Institutions and the Federal Public Prosecution Services. They operate as a Portfolio Management company with specialized divisions and customized collection strategies."
+  }
+}

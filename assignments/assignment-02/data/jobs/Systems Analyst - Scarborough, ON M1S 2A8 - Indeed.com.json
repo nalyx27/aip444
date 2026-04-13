@@ -1,0 +1,35 @@
+{
+  "jobTitle": "Systems Analyst",
+  "companyName": "International Waxes, Inc.",
+  "location": "Scarborough, ON",
+  "skillsRequired": [
+    "Excel",
+    "SQL",
+    "JD Edwards",
+    "Microsoft SQL Server",
+    "ERP systems (JDE, SAP, Oracle, Dynamics)"
+  ],
+  "skillsPreferred": [],
+  "experienceLevel": "Minimum 5 years",
+  "educationRequirements": "College degree or equivalent",
+  "salaryRange": "$70,000–$90,000 a year",
+  "responsibilities": [
+    "Acts as site MIS representation – supporting employees on software problem solving.",
+    "Provides transactional / process support for all sites for business systems which may include JD Edwards.",
+    "Training in business software which may include JD Edwards, EDI and Transform (forms software).",
+    "Analyze business processes and decisions in order to make improvements.",
+    "Identify and assist in the re-engineering, improvement or replacement of existing business processes and associated technology.",
+    "Document, examine, and manage business requirements on projects. This involves managing business requirements sessions, conducting interviews and accessing existing documentation.",
+    "Understand relationships and facilitate the communication between the business and technology areas.",
+    "Coordinate and facilitate business requirements gathering sessions, gap analysis, risk assessment and business requirements validation.",
+    "Translate the business requirements into functional requirements. Ensure traceability and understanding of the requirements by all project/support members to enable systems enhancements /projects to be constructed .",
+    "Participate in Project Management activities such as managing the delivery of projects through initiation, estimating, work planning, analysis, design, constructions, deployment and post-project review."
+  ],
+  "companyResearch": {
+    "size": "11-50 employees",
+    "industry": "Chemical Manufacturing",
+    "recentNews": [],
+    "cultureSignals": [],
+    "additionalContext": "International Waxes, Inc. is located in Titusville, PA. Located at 1007 E Spring St, Titusville, PA 16354, US, and 1100 E Main St, Titusville, PA 16354, US."
+  }
+}

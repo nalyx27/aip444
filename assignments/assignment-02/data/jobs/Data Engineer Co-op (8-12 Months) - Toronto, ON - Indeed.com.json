@@ -1,0 +1,53 @@
+{
+  "jobTitle": "Data Engineer Co-op (8-12 Months)",
+  "companyName": "Rakuten Kobo",
+  "location": "Toronto, ON",
+  "skillsRequired": [
+    "Python",
+    "SQL",
+    "Prioritize competing requests",
+    "Handle multiple tasks",
+    "Communicating",
+    "Asking questions",
+    "Learning",
+    "German",
+    "English",
+    "Time management",
+    "Works independently",
+    "Structured approach",
+    "Comfortable working with very large datasets"
+  ],
+  "skillsPreferred": [
+    "CI/CD tools",
+    "GCP",
+    "BI tools (Domo, Tableau)",
+    "REST APIs",
+    "Python data libraries (Pandas, NumPy)",
+    "ETL/big data pipelines with workflow tools (e.g., Airflow)"
+  ],
+  "experienceLevel": null,
+  "educationRequirements": "relevant Bachelor's or Master's degree program (e.g., Computer Science, Data Science, Engineering)",
+  "salaryRange": "$45,000 a year",
+  "responsibilities": [
+    "Design, build, and document efficient ETL/ELT data pipelines and models.",
+    "Write and optimize SQL and Python for large-scale datasets.",
+    "Visualize data and deliver BI dashboards/reports using our BI tools (e.g., Domo, Tableau) for internal and external partners.",
+    "Prepare and ingest data into Google Cloud Platform (GCP)."
+  ],
+  "companyResearch": {
+    "size": "201 to 500 employees",
+    "industry": "Bookselling, consumer electronics, Media & Entertainment Stores",
+    "recentNews": [
+      "Rakuten Kobo is engaging with students at various university career fairs and events.",
+      "Rakuten Kobo hosted a session for the Toronto Romance Writers' Northern Hearts Retreat at their headquarters.",
+      "Rakuten Kobo held their annual Kobo Kick-Off, a three-day event for employees to connect and align on the company vision."
+    ],
+    "cultureSignals": [
+      "Offers a casual, start-up environment with friendly and talented individuals.",
+      "Employees rank the company highly in terms of commitment to work/life balance.",
+      "Provides competitive salaries, performance-based annual bonuses, stock options, and training opportunities.",
+      "Has a diversified culture."
+    ],
+    "additionalContext": "Rakuten Kobo Inc. is a Canadian company headquartered in Toronto, Ontario, and is a subsidiary of the Japanese e-commerce conglomerate Rakuten. It sells e-books, audiobooks, e-readers. The company's mission is to make reading lives better."
+  }
+}

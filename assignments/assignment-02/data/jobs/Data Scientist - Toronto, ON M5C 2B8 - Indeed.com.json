@@ -1,0 +1,61 @@
+{
+  "jobTitle": "Data Scientist",
+  "companyName": "Momentum Financial Services Group",
+  "location": "Toronto, ON M5C 2B8",
+  "skillsRequired": [
+    "SQL",
+    "Python",
+    "R",
+    "Analytical tools",
+    "Descriptive analytics",
+    "Diagnostic analytics",
+    "Predictive analytics",
+    "Prescriptive analytics",
+    "Problem-solving",
+    "Data analysis",
+    "Machine learning libraries",
+    "Statistical modeling"
+  ],
+  "skillsPreferred": [
+    "NLP",
+    "LLMs",
+    "AI techniques"
+  ],
+  "experienceLevel": "2+ years of experience",
+  "educationRequirements": "Bachelor's degree in a quantitative field such as Computer Science, Data Science, Statistics, Mathematics, Economics, Finance, or Engineering",
+  "salaryRange": "$95,000–$105,000 a year",
+  "responsibilities": [
+    "Develop advanced analytical and machine learning solutions that support credit risk, fraud detection, marketing optimization, and customer segmentation.",
+    "Leverage large-scale data to generate insights, improve decision-making, and drive measurable business impact across the organization.",
+    "Design, develop, validate, and deploy predictive and prescriptive models across financial products",
+    "Apply machine learning, statistical, and optimization techniques to solve business challenges such as credit risk, fraud detection, pricing, and customer acquisition",
+    "Ensure models are scalable, compliant, and deliver measurable impact",
+    "Analyze large and complex datasets to identify patterns and extract meaningful features",
+    "Improve model performance through data-driven insights",
+    "Partner with data engineers, product teams, risk teams, and business stakeholders",
+    "Translate business needs into data science solutions and communicate insights effectively",
+    "Ensure models align with regulatory requirements and internal governance standards",
+    "Support audit and validation processes",
+    "Monitor model performance and implement enhancements or retraining",
+    "Explore new tools, techniques, and approaches to improve outcomes",
+    "Lead and support projects such as portfolio optimization and customer behavior analysis",
+    "Collaborate across business lines including marketing, operations, and card services"
+  ],
+  "companyResearch": {
+    "size": "1,001-5,000 employees",
+    "industry": "Financial Services",
+    "recentNews": [
+      "MoneyGram services are available at all Money Mart and The Check Cashing Store locations in Canada and the United States!",
+      "Happy Canada Day from the Momentum family!"
+    ],
+    "cultureSignals": [
+      "Invests in team through training, benefits, and career growth opportunities.",
+      "Committed to Diversity, Equity, Inclusion, and Belonging (DEIB).",
+      "Values integrity, transparency, and putting the customer first.",
+      "Values being inclusive and putting people first.",
+      "Values teamwork and collaboration.",
+      "Offers competitive compensation, bonus opportunities, and benefits."
+    ],
+    "additionalContext": "Momentum Financial Services Group (MFSG) provides alternative financial solutions in North America, focusing on underserved communities. They offer services such as short-term loans, money transfers, and prepaid cards. MFSG operates Money Mart, Canada’s largest non-bank branch network. The company has over 40 years of experience and is headquartered in Toronto. They have a global team with locations in Canada, the US, and India. Peter Kalen joined as CEO in 2023."
+  }
+}

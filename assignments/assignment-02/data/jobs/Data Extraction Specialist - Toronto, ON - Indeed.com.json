@@ -1,0 +1,56 @@
+{
+  "jobTitle": "Data Extraction Specialist",
+  "companyName": "CMiC",
+  "location": "Toronto, ON",
+  "skillsRequired": [
+    "SQL",
+    "PL/SQL",
+    "Sage DB",
+    "SQL Server Management Studio (SSMS)",
+    "Oracle 11g",
+    "12c",
+    "18c",
+    "19c Databases",
+    "SQLServer",
+    "MySQL",
+    "MS Excel",
+    "Problem solving",
+    "Customer service",
+    "Verbal communication",
+    "Written communication"
+  ],
+  "skillsPreferred": [],
+  "experienceLevel": "Minimum 3-5 years",
+  "educationRequirements": "University Degree, preferably in Computer Science",
+  "salaryRange": "$75,000–$85,000 a year",
+  "responsibilities": [
+    "Analyze and document scope of work for Data Extraction projects",
+    "Provide estimates for Data Mapping and Extraction scripts creation",
+    "Design, develop, and maintain scripts and queries for Data Mapping and Extraction tasks from multiple legacy systems on different platforms.",
+    "Examine, design, develop, and maintain SQL scripts and queries for Data Conversion tasks",
+    "Work with external Data Extraction programmers to understand and resolve issues with incoming data",
+    "Assist customers with Data Mapping and Extraction activities",
+    "Work with data owners to verify data accuracy and integrity",
+    "Develop and execute database queries as needed",
+    "Performs data corrections through analyzing data for errors and formulating corrective procedures",
+    "Work with other team members to efficiently troubleshoot issues related to Data Conversion",
+    "Provide ongoing status and feedback of the Data Conversion process to all parties involved",
+    "Other related duties as assigned."
+  ],
+  "companyResearch": {
+    "size": "201-500 employees",
+    "industry": "Software Development",
+    "recentNews": [
+      "CMiC Recognized by Deloitte as One of Canada’s Best Managed Companies for the Third Consecutive Year (2020)",
+      "CMiC team at Seneca Polytechnic Career Fair (recent)",
+      "CMiC: 50 Years of Pioneering Construction ERP Solutions (2024)"
+    ],
+    "cultureSignals": [
+      "Customer-first mantra",
+      "Focuses on customer satisfaction and engagement",
+      "Social Purpose Committee - Ready Set Build (volunteer efforts)",
+      "Supports ACE Mentor Program"
+    ],
+    "additionalContext": "CMiC is a Canadian owned and operated company that provides ERP and field operations software for the construction industry. Founded in 1974, CMiC has focused on developing robust products and services. CMiC generates $75.5M in revenue with a 686 person team (2025)."
+  }
+}
